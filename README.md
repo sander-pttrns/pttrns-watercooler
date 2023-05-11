@@ -2,7 +2,7 @@ page_type     | languages     | products      | description
 ------------- | ------------- | ------------- | -------------
 sample        | csharp  | office-teams | Water Cooler is a custom Teams app that enables corporate teams to create, invite, and join casual conversations among teammates, like those that take place by the Water Cooler or break room.
 
-# Water Cooler App Template
+# Water Cooler App
 
 Water Cooler is a custom Teams app that enables corporate teams to create, invite, and join casual conversations among teammates, like those that take place by the Water Cooler or break room. Use this template for multiple scenarios, such as new non-project related announcements, topics of interest, current events, or conversations about hobbies.
 
